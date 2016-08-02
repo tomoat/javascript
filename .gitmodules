@@ -1,0 +1,3 @@
+[submodule "javascript-style-guide"]
+	path = javascript-style-guide
+	url = https://github.com/adamlu/javascript-style-guide.git
